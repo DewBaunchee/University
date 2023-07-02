@@ -1,0 +1,108 @@
+[submodule "Algorithms"]
+	path = Algorithms
+	url = https://github.com/DewBaunchee/Algorithms
+[submodule "Science"]
+	path = Science
+	url = https://github.com/DewBaunchee/Science
+[submodule "Semester1/OAiP"]
+	path = Semester1/OAiP
+	url = https://github.com/DewBaunchee/OAiP
+[submodule "Semester1/ECG"]
+	path = Semester1/ECG
+	url = https://github.com/DewBaunchee/ECG
+[submodule "Semester2/PL"]
+	path = Semester2/PL
+	url = https://github.com/DewBaunchee/PL_Assembler
+[submodule "Semester3/CH"]
+	path = Semester3/CH
+	url = https://github.com/DewBaunchee/CH
+[submodule "Semester3/Compilators"]
+	path = Semester3/Compilators
+	url = https://github.com/DewBaunchee/PL_Compilators
+[submodule "Semester3/DPSaA"]
+	path = Semester3/DPSaA
+	url = https://github.com/DewBaunchee/DPSaA
+[submodule "Semester3/MSaC"]
+	path = Semester3/MSaC
+	url = https://github.com/DewBaunchee/MSaC
+[submodule "Semester3/PL"]
+	path = Semester3/PL
+	url = https://github.com/DewBaunchee/PL_C-CPP
+[submodule "Semester4/CSaN"]
+	path = Semester4/CSaN
+	url = https://github.com/DewBaunchee/CSaN
+[submodule "Semester4/OOP"]
+	path = Semester4/OOP
+	url = https://github.com/DewBaunchee/OOP
+[submodule "Semester4/OSaSP"]
+	path = Semester4/OSaSP
+	url = https://github.com/DewBaunchee/OSaSP
+[submodule "Semester4/SDT"]
+	path = Semester4/SDT
+	url = https://github.com/DewBaunchee/SDT
+[submodule "Semester4/TI"]
+	path = Semester4/TI
+	url = https://github.com/DewBaunchee/TI
+[submodule "Semester4/WT"]
+	path = Semester4/WT
+	url = https://github.com/DewBaunchee/WT
+[submodule "Semester5/MO"]
+	path = Semester5/MO
+	url = https://github.com/DewBaunchee/MOPTIM
+[submodule "Semester5/MPP"]
+	path = Semester5/MPP
+	url = https://github.com/DewBaunchee/MPP
+[submodule "Semester5/ProjectManaging"]
+	path = Semester5/ProjectManaging
+	url = https://github.com/DewBaunchee/ElectricScooters
+[submodule "Semester5/ServletHotel"]
+	path = Semester5/ServletHotel
+	url = https://github.com/DewBaunchee/ServletHotel
+[submodule "Semester5/SocketArchive"]
+	path = Semester5/SocketArchive
+	url = https://github.com/DewBaunchee/SocketArchive
+[submodule "Semester5/SR"]
+	path = Semester5/SR
+	url = https://github.com/DewBaunchee/SR
+[submodule "Semester5/WinApi"]
+	path = Semester5/WinApi
+	url = https://github.com/DewBaunchee/WinApi
+[submodule "Semester6/codemeet"]
+	path = Semester6/codemeet
+	url = https://github.com/DewBaunchee/codemeet
+[submodule "Semester6/DB"]
+	path = Semester6/DB
+	url = https://github.com/DewBaunchee/DB1
+[submodule "Semester6/DMMA"]
+	path = Semester6/DMMA
+	url = https://github.com/DewBaunchee/DMMA
+[submodule "Semester6/MD"]
+	path = Semester6/MD
+	url = https://github.com/DewBaunchee/MD
+[submodule "Semester6/TWOA"]
+	path = Semester6/TWOA
+	url = https://github.com/DewBaunchee/TWOA
+[submodule "Semester7/CGA"]
+	path = Semester7/CGA
+	url = https://github.com/DewBaunchee/CGA
+[submodule "Semester7/DB"]
+	path = Semester7/DB
+	url = https://github.com/DewBaunchee/DB2
+[submodule "Semester7/DSP"]
+	path = Semester7/DSP
+	url = https://github.com/DewBaunchee/DSP
+[submodule "Semester7/ESS"]
+	path = Semester7/ESS
+	url = https://github.com/DewBaunchee/ESS
+[submodule "Semester7/SAMM"]
+	path = Semester7/SAMM
+	url = https://github.com/DewBaunchee/SAMM
+[submodule "Semester8/BerpS"]
+	path = Semester8/BerpS
+	url = https://github.com/DewBaunchee/BerpS
+[submodule "Semester8/DDIS"]
+	path = Semester8/DDIS
+	url = https://github.com/DewBaunchee/DDIS
+[submodule "Semester4/DoUI"]
+	path = Semester4/DoUI
+	url = https://github.com/DewBaunchee/DoUI
